@@ -10,6 +10,16 @@ One word from your ex: **placeholder**.
 — 11 characters — the word an ex would use to describe you, to
 `/output/entry.txt`.
 
+## Why this word
+
+> placeholder
+
+"He was a placeholder": kept around to fill the gap until someone better
+arrived. A whole relationship reduced to a gap-filler, kept on the shelf
+like a spare. It stings because it is true, not because it insults — and
+no near synonym ("substitute", "stand-in", "filler") carries the same
+charge.
+
 ## Run it
 
 ```sh
